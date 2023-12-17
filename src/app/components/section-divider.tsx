@@ -3,7 +3,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 
-export default function () {
+export default function SectionDivider() {
   return (
     <motion.div 
     className='bg-gray-800 dark:bg-gray-300 my-24 h-16 

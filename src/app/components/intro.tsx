@@ -34,7 +34,7 @@ useActiveSectionContext();
         <span className='font-semibold'>Welcome to JDCODE</span>
         , where innovation meets expertise! 
         As <span className='font-semibold'>Full Stack Developers, Web3, AI & Cybersecurity</span> mavens, 
-        we're on a mission to redefine digital landscapes in <span className='italic'>Pakistan & across the Globe. </span> 
+        we\'re on a mission to redefine digital landscapes in <span className='italic'>Pakistan & across the Globe. </span> 
         
         <span className='font-semibold'> Join us</span> on a journey in <span className='italic'>delivering excellence </span>
         <span className='underline'>globally.</span>
