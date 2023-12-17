@@ -28,8 +28,8 @@ export default function About() {
         <span className='font-bold'> JDCODE </span> 
         , traversing the realms of 
         <span className='italic font-medium'> Entrepreneurship, Web Development, AI, Business Development, Banking & Real Estate</span>. His seasoned experience resonates
-        in every cornerstone of our initiatives, shaping <span className='font-bold'> JDCODE </span>\'s trajectory with innovation 
-        and steadfast leadership. Juned\'s unwavering commitment to pioneering advancements in technology serves
+        in every cornerstone of our initiatives, shaping <span className='font-bold'> JDCODE</span>&apos;s trajectory with innovation 
+        and steadfast leadership. Juned&apos;s unwavering commitment to pioneering advancements in technology serves
         as the cornerstone of our philosophy.
     </p>
     <h2 className='font-bold py-1'>Meet Dilawar Baig</h2>
@@ -37,7 +37,7 @@ export default function About() {
         Energizing the pulse of <span className='font-bold'>JDCODE</span> with youthful zeal and an insatiable hunger for tech mastery is 
         Dilawar Baig. As a budding <span className='italic font-medium'>professional</span>, Dilawar embodies an unyielding passion for absorbing and 
         <span className='italic font-medium'> harnessing the latest tech trends</span>. His fervor for information technology ignites the driving force
-        behind our quest for excellence. Dilawar\'s relentless pursuit of learning and his aspirational drive
+        behind our quest for excellence. Dilawar&apos;s relentless pursuit of learning and his aspirational drive
         <span className='italic font-medium'> inspire us to push boundaries and emerge as trailblazers</span> in the ever-evolving landscape 
          of IT innovation.
     </p>
