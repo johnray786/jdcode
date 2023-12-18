@@ -3,7 +3,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 
-export default function () {
+const SectionDivider = () => {
   return (
     <motion.div 
     className='bg-gray-800 dark:bg-gray-300 my-24 h-16 
@@ -13,5 +13,7 @@ export default function () {
     transition={{delay:0.125}}
     
     ></motion.div>
-  )
-}
+  );
+};
+
+export default SectionDivider;
