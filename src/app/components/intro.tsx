@@ -1,7 +1,7 @@
 'use client';
 
-import Image from 'next/image';
 import React from 'react';
+import Image from 'next/image';
 import jdcode from '../lib/jdcodelogo.png';
 import {motion} from 'framer-motion';
 import Link from 'next/link';
